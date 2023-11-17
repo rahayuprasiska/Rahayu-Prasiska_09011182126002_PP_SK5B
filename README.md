@@ -1,7 +1,9 @@
 # Pemerosesan Paralel
 
 Tugas Mata kuliah Pemerosesan Paralel
+
 Nama: Rahayu Prasiska
+
 Kelas: Sistem Komputer 5B Insralaya
 
 
